@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Gemini Nexus Upgrade",
+  "version": "1.0",
+  "description": "Gemini Nexus 的升级版，带有侧面板和咖啡笔尖功能。",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": []
+}
